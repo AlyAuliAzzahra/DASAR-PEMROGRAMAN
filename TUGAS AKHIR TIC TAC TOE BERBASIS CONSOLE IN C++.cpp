@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-void tampilkanBagan();
 const int baris = 3;
 const  int kolom = 3;
 char baganGame[baris][kolom] = { { '*','*','*' },{ '*','*','*' },{ '*','*','*' } };
